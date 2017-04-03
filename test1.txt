@@ -1,1 +1,2 @@
 test lin e1
+test kine 2
